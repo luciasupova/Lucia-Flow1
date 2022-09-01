@@ -1,0 +1,44 @@
+div {
+    background-color: rgb(170, 202, 170);
+    margin: auto;
+    width: 18%;
+    padding: 55px;
+    border-radius: 1.5em;
+    padding-bottom: 3em;
+    padding-top: 2em;
+}
+
+input {
+    border: 2px rgb(255, 255, 255);
+    height: 30px;
+    border-radius: 3px;
+    width: 220px;
+    margin-bottom: 1.2em;
+}
+
+h1, h2, p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(29, 29, 29);
+}
+
+p {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+#btn {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    padding: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: uppercase;
+    border-style: none;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+#btn:hover {
+    background-color: rgb(96, 129, 96);
+    color: rgb(250, 242, 242);
+}
